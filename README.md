@@ -99,7 +99,7 @@ Understanding these patterns can help inform public health research and interven
 
 ## Project Files
 
-- `FinalProject.ipynb` – Jupyter Notebook containing data preparation, exploratory analysis, visualizations, and statistical testing.
+- `income_analysis.ipynb` – Jupyter Notebook containing data preparation, exploratory analysis, visualizations, and statistical testing.
 
 ## Skills Demonstrated
 
